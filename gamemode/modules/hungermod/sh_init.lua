@@ -99,5 +99,14 @@ DarkRP.createFood("Orange", {
     energy = 20,
     price = 20
 })
+DarkRP.createFood("C ration", {
+    model = "models/props_junk/garbage_metalcan002a.mdl",
+    energy = 50,
+    price = 20
+})
+DarkRP.createFood("전투식량", {
+    model = "models/props_junk/garbage_takeoutcartoon001a.mdl",
+    energy = 70,
+    price = 50
 
 DarkRP.DARKRP_LOADING = nil
